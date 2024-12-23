@@ -3,7 +3,7 @@
 
 **CASK** (*Cellular Analysis of Spatiotemporal K-functions*) is a repository accompanying the publication **"Spatial and temporal signatures of cell competition revealed by K-function analysis"**. This repository provides Jupyter notebooks for spatiotemporal K-function clustering analysis and single-cell labeling, offering distilled quantitative methods to study the spatiotemporal dynamics of cellular competition.
 
-![Uploading pasted-movie.png…]()
+![cellcomp](https://github.com/user-attachments/assets/9522fa1e-82ae-48b8-8757-0fc6fbdd3397)
 
 ## Key Features
 
