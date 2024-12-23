@@ -17,10 +17,11 @@
 1. **Space-time_K-Function_analysis.ipynb**: Implements the spatiotemporal K-function clustering analysis.
 2. **Single-Cell Labeling Notebooks**:
    - `align.ipynb`: Aligns imaging data for accurate cell tracking.
-   - `btrack_tracking.ipynb`: Utilizes Bayesian tracking for single-cell movement analysis.
-   - `cellx_classify.ipynb`: Classifies cell types based on imaging data.
-   - `napari_viewer.ipynb`: Visualizes cell data using the Napari viewer.
    - `stardist_segmentation.ipynb`: Segments cell images using the StarDist algorithm.
+   - `cellx_classify.ipynb`: Classifies cell types based on imaging data.
+   - `btrack_tracking.ipynb`: Utilizes Bayesian tracking for single-cell movement analysis.
+   - `napari_viewer.ipynb`: Visualizes cell data using the Napari viewer.
+
 
 *Note:* This repository **does not** include segmentation or tracking tools. Those were performed using bespoke pipelines described in the publication.
 
